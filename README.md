@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- :computer: My blog (sort of): https://rcs-tringuyen.github.io/
+
 [![Tri's GitHub stats](https://github-readme-stats.vercel.app/api?username=rcs-tringuyen&count_private=true&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rcs-tringuyen&layout=compact&langs_count=8&theme=react)](https://github.com/anuraghazra/github-readme-stats)
