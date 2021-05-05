@@ -4,6 +4,13 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rcs-tringuyen&layout=compact&langs_count=8&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rcs-tringuyen&count_private=true&show_icons=true&theme=react&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rcs-tringuyen&layout=compact&langs_count=8&theme=react&repo=github-readme-stat" />
+</a>
+
 <!--
 **rcs-tringuyen/rcs-tringuyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
