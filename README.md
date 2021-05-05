@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![Tri's GitHub stats](https://github-readme-stats.vercel.app/api?username=rcs-tringuyen)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **rcs-tringuyen/rcs-tringuyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
