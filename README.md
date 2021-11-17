@@ -35,3 +35,4 @@ Here are some ideas to get you started:
 <h3> Top 2% on TryHackMe </h3> 
 
 [My Profile](https://tryhackme.com/p/tlnguyen)
+<img src="https://tryhackme-badges.s3.amazonaws.com/tlnguyen.png" alt="TryHackMe">
