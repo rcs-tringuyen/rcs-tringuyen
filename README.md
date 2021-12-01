@@ -32,6 +32,6 @@ Here are some ideas to get you started:
 </a>
 -->
 
-<h3> Top 2% on TryHackMe </h3> 
+<h3> Top 1% on TryHackMe </h3> 
 
 [My Profile](https://tryhackme.com/p/tlnguyen)
